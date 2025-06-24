@@ -6,7 +6,7 @@
   "saluran": "https://whatsapp.com/channel/0029Vb36GDJAe5VnlrxBz72F",
   "favicon": "https://files.catbox.moe/eyxolh.jpg", 
   "apititle": "Yanzz API",
-  "apikey": [
+  "apikey": "yanzzapikey"[
     "YanzzApi", "YanzzHost"
   ]
 }
